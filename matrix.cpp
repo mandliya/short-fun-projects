@@ -1,7 +1,11 @@
 /*
- *Simple matrix-like screen saver using multithreading in C++
-  Reference - http://www.quora.com/What-is-the-best-C++-code-that-you-have-ever-written/answer/Sumit-Sahrawat-1?srid=p2CT&share=1
-  Added my own- Instead of using constant width I used winsize+ioctl to detect terminal width
+ *Creates  matrix-like screen using C++ threads.
+
+ *Reference - http://www.quora.com/What-is-the-best-C++-code-that-you-have-ever-written/answer/Sumit-Sahrawat-1?srid=p2CT&share=1
+  
+ *Added my own- Instead of using constant width I used winsize + ioctl to detect terminal width
+
+ *Use "Green on Black" as terminal setting
 */
 
 #include<iostream>
