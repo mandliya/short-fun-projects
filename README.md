@@ -3,6 +3,9 @@ short-fun-projects
 
 Here, I share any short code projects I learn, which intuitive and cool.
 
+##Hangman
+![alt tag](https://github.com/mandliya/short-fun-projects/blob/master/hangman/hangman.gif?raw=true)
+
 ## Matrix screen 
    - Generates a matrix like terminal screen using C++ threads
    - Please use "Green on Black" terminal settings to view it.
