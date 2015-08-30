@@ -16,5 +16,5 @@ Here, I share any short code projects I learn, which intuitive and cool.
    - A simple conversion program, which can convert large decimal binary conversions.
     
 ## Text Games
-    - Computer try to guess the number you chose.
-    - You guess the random number computer chooses.
+   - Computer try to guess the number you chose.
+   - You guess the random number computer chooses.
